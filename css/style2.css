@@ -1,0 +1,103 @@
+
+h5 {
+	font-family: 'Marcellus SC', serif;
+	font-weight: bold;
+}
+
+#headShot {
+	border-radius: 5px;
+	margin: 5px;
+}
+
+#grabber {
+  color: white;
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Star_Rain_in_the_Desert.jpg/1200px-Star_Rain_in_the_Desert.jpg");
+  background-size: 1100px, 1200px; 
+}
+
+#jumbo {
+	margin-top: 15px;
+	color: white;
+	font-size: 40px;
+	font-family: "Julius Sans One", sans-serif;
+	font-weight: bolder;
+	text-shadow: 5px 5px 5px #000
+}
+
+.lyric {
+	font-family: "Julius Sans One", sans-serif;
+	font-weight: bolder;
+}
+
+#thisisme {
+	min-height: 40px;
+	margin-top: 20px;
+	margin-left: 15px;
+}
+
+#webdev {
+	min-height: 60px;
+}
+span#sidebar {
+	color: #093884;
+}
+#languages {
+	min-height: 75px;
+}
+
+#projectwrapper {
+	margin-top: 20px;
+}
+
+#thecontactblurb {
+	font-family: "Helvetica";
+	font-size: 20px;
+}
+
+img.icon {
+	height: 50px;
+	width: 50px;
+	margin: 5px;
+}
+
+img.thumbnail {
+	border-radius: 5px;
+	height: 210px;
+	width: 210px;
+	-webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+	/*box-shadow: 1px 1px 1px 1px;*/	
+}
+
+img.thumbnail:hover {
+	-webkit-filter: grayscale(0%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(0%);
+}
+
+#rebel {
+	padding-bottom: 25px;
+}
+
+#footer {
+	margin-bottom: 20px;
+}
+
+li:hover {
+	-webkit-transform: scale(1.3);
+}
+
+#contactBars {
+	margin-top: 40px;
+}
+
+form {
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 2em;
+}
+
+#patLogo {
+	height: 20%;
+	width: 20%;
+	float: right;
+	margin-right: 30px;
+}
