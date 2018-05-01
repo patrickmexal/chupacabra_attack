@@ -1,15 +1,15 @@
 .knockout {
   background: url("../images/lightTrail.jpg") -80px -80px;
     background-position: center; 
-    background-size: 1000px 1000px;
+    background-size: 100%;
   color: red;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
   font-weight: bold;
-  font-size: 170px;
+  font-size: 18em;
   font-family: 'Roboto', sans-serif;
-  width: 900px;
-  margin: 50px auto;
+  width: 90%;
+  margin: 30px auto;
   text-align: center;
 }
 
